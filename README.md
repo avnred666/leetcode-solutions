@@ -7,3 +7,5 @@ Problem 3: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 Problem 4: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 
 Problem 5: https://leetcode.com/problems/majority-element/
+
+Problem 6; https://leetcode.com/problems/rotate-array/
