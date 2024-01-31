@@ -21,3 +21,5 @@ Problem 10: https://leetcode.com/problems/length-of-last-word/
 Problem 11: https://leetcode.com/problems/longest-common-prefix
 
 Problem 12: https://leetcode.com/problems/reverse-words-in-a-string/
+
+Problem 13: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
