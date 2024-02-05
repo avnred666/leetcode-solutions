@@ -4,15 +4,15 @@
  */
 public class BuyAndSellStock1 {
     public static int MaxProfit(int[] prices){
-        int minProfit = Integer.MAX_VALUE;
+        int minPrice = Integer.MAX_VALUE;
         int maxProfit = 0;
 
         for(int price: prices){
-            if(price < minProfit){
-                minProfit = price;
+            if(price < minPrice){
+                minPrice = price;
             }
-            else if(price - minProfit > maxProfit){
-                maxProfit = price - minProfit;
+            else if(price - minPrice > maxProfit){
+                maxProfit = price - minPrice;
             }
         }
         return maxProfit;
