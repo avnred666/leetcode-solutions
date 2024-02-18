@@ -31,3 +31,5 @@ Problem 15: https://leetcode.com/problems/two-sum
 Problem 16: https://leetcode.com/problems/is-subsequence/
 
 Problem 17: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
+Problem 18: https://leetcode.com/problems/ransom-note
