@@ -35,3 +35,5 @@ Problem 17: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 Problem 18: https://leetcode.com/problems/ransom-note
 
 Problem 19: https://leetcode.com/problems/isomorphic-strings/
+
+Problem 20: https://leetcode.com/problems/word-pattern
