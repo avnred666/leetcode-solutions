@@ -41,3 +41,7 @@ Problem 20: https://leetcode.com/problems/word-pattern
 Problem 21: https://leetcode.com/problems/valid-anagram
 
 Problem 22: https://leetcode.com/problems/happy-number
+
+Problem 23: https://leetcode.com/problems/contains-duplicate-ii
+
+Problem 24: https://leetcode.com/problems/contains-duplicate/
