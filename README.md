@@ -39,3 +39,5 @@ Problem 19: https://leetcode.com/problems/isomorphic-strings/
 Problem 20: https://leetcode.com/problems/word-pattern
 
 Problem 21: https://leetcode.com/problems/valid-anagram
+
+Problem 22: https://leetcode.com/problems/happy-number
