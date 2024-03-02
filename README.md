@@ -45,3 +45,5 @@ Problem 22: https://leetcode.com/problems/happy-number
 Problem 23: https://leetcode.com/problems/contains-duplicate-ii
 
 Problem 24: https://leetcode.com/problems/contains-duplicate/
+
+Problem 25: https://leetcode.com/problems/valid-parentheses/
