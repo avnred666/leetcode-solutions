@@ -17,7 +17,7 @@ public class ValidParentheses {
                 if ((c == ')' && top == '(') || (c == '}' && top == '{') || (c == ']' && top == '[')) {
                     stack.pop();
                 } else {
-                    return false;
+                    stack.push(c);
                 }
             }
         }
@@ -25,6 +25,6 @@ public class ValidParentheses {
     }
 
     public static void main(String[] args) {
-        System.out.println(isValid("{}[]"));
+        System.out.println(isValid("({[]}{}[])"));
     }
 }
